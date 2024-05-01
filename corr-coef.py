@@ -1,6 +1,5 @@
 from mpyc import statistics
 from mpyc.runtime import mpc
-import numpy as np
 import pandas as pd
 
 async def main(dataset_x, dataset_y):
